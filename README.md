@@ -1,8 +1,8 @@
 # Retail-Analysis-One
-![](eBooks/RetailBanner.png)
+![](eBooks/RetailBanner.pnNg)
 Análise de Varejo | One
 - [Colab](https://colab.research.google.com/drive/1LEQhnL5iNC7-mNpTFVeJnaeY5xCbp55F?usp=sharing)
-- [Documentação](Ahttps://gabrielluizone.notion.site/Preview-Integrador-79337174172e46628f36b07623247919)
+- [Documentação](https://gabrielluizone.notion.site/Preview-Integrador-79337174172e46628f36b07623247919)
 
 # Project Title
 
